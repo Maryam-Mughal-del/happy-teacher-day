@@ -441,10 +441,6 @@
                 and your friendly nature are things I genuinely appreciate.
             </p>
 
-            <button class="button" onclick="showSurprise()">
-                ✨ Open My Surprise
-            </button>
-
         </div>
 
     </section>
